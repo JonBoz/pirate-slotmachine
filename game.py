@@ -1,12 +1,10 @@
-background_1_filename = '1-p.JPG'
-background_2_filename = '2-p.JPG'
-background_3_filename = '3-p.JPG'
-background_4_filename = '4-p.JPG'
-background_5_filename = '5-p.JPG'
 background_slot_filename = 'slot.JPG'
 
 import pygame, random, time,os
 from pygame.locals import *
+from settings import *
+
+
 
 def game(screen):
 
@@ -27,12 +25,6 @@ def game(screen):
     image = pygame.Surface((50,50))
     image.fill((255,255,255))
     pygame.draw.circle(image,(0,0,0),(15,15),12)
-    
-    one = pygame.image.load(background_1_filename).convert()
-    two = pygame.image.load(background_2_filename).convert()
-    three = pygame.image.load(background_3_filename).convert()
-    four = pygame.image.load(background_4_filename).convert()
-    five = pygame.image.load(background_5_filename).convert()
     
     slot1 = pygame.image.load(background_slot_filename).convert()
     slot2 = pygame.image.load(background_slot_filename).convert()
@@ -94,7 +86,7 @@ def game(screen):
                             pygame.display.update()
                             pygame.time.delay(600)
                             
-                    for roll in xrange(1):
+                    for roll in range(1):
                              p = random.randint(1,5)
                              q = random.randint(1,5)
                              r = random.randint(1,5)
