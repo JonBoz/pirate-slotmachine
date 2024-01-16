@@ -1,0 +1,2 @@
+game.py code: xrange in range da fehler
+#bilder in folder
