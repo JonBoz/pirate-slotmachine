@@ -12,3 +12,7 @@ This project is
 
 * Python installed: ``` Python version > 3.10 ```
 * PyGame installed: ``` PyGame version > 1.9.5 ```
+
+## Run the gamex
+
+> djvndsojvnsod
