@@ -1,14 +1,14 @@
 # pirate-slotmachine
 This project is
 
-# Technologies Used
+## Technologies Used
 * Python
 * Framework - PyGame
 * time, os, sys
 
-# Guidenline
+## Guidenline
 
-## Requirements
+### Requirements
 
 * Python installed: ``` Python version > 3.10 ```
 * PyGame installed: ``` PyGame version > 1.9.5 ```
