@@ -29,3 +29,7 @@ This project is
 ![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/loadscreen.png)
 #### menu:
 ![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/menu.png)
+#### loser:
+![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/loser.png)
+#### small win:
+![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/smallwin.png)
