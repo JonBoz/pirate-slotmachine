@@ -14,4 +14,5 @@ def loadingscreen():
     load.blit(Karte,(510,400))
     load.blit(Pistole,(620,520))
 
-
+    pygame.display.update()
+    pygame.time.delay(300)
