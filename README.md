@@ -15,4 +15,12 @@ This project is
 
 ## Run the game
 
-`djvndsojvnsod`
+`python <file_path>/main.py`
+
+## Create release
+
+`pyinstaller.exe .\main.spec`
+
+##DEMO
+
+###IMAGES:
