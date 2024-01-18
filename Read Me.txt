@@ -1,1 +1,0 @@
-Use run.py to run the game as , python run.py.
