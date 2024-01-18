@@ -1,6 +1,7 @@
 # pirate-slotmachine
 This project is
 Link to the Source Code: [Link](https://code.google.com/archive/p/pirate-slot-machine/downloads)
+[Link](http://3chevrons.blogspot.com/2009/07/pirate-slot-machine.html)
 
 ## Technologies Used
 * Python
