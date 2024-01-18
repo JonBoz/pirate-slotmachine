@@ -25,4 +25,4 @@ This project is
 
 ### IMAGES:
 
-![Image](/WDIC/loadscreen.png)
+![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/loadscreen.png)
