@@ -21,6 +21,6 @@ This project is
 
 `pyinstaller.exe .\main.spec`
 
-##DEMO
+## DEMO
 
-###IMAGES:
+### IMAGES:
