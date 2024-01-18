@@ -16,3 +16,6 @@ Mouseclick event hinzugefügt; Da Pfeiltasten auswahl extrem langsam ist; Bis zu
 
 ## Verbesserung des Gamedesigns
 Bei großem Gewinn wird ein BigWin Bild eingefügt;
+
+## Ausweitung der ReadMe
+Alles Notwendige was zu wissen ist wurde hineingeschrieben. Mit Link zum Creator und seinem Projekt
