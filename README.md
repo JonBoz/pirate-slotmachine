@@ -24,3 +24,5 @@ This project is
 ## DEMO
 
 ### IMAGES:
+
+![Image] (/WDIC/loadscreen.png)
