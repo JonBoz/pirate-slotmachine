@@ -25,6 +25,7 @@ This project is
 
 ### IMAGES:
 
-
+#### loadingscreen:
 ![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/loadscreen.png)
+#### menu:
 ![Image](https://github.com/JonBoz/pirate-slotmachine/blob/main/image_readme/menu.png)
