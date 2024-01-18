@@ -25,4 +25,4 @@ This project is
 
 ### IMAGES:
 
-![Image] (/WDIC/loadscreen.png)
+![Image](/WDIC/loadscreen.png)
