@@ -15,7 +15,7 @@ game.py code: xrange in range umschreiben, da fehler;
 Mouseclick event hinzugefügt; Da Pfeiltasten auswahl extrem langsam ist; Bis zu 5 Sekunden um von Play auf Quit zu wechseln;
 
 ## Verbesserung des Gamedesigns
-Bei großem Gewinn wird ein BigWin Bild eingefügt;
+Bei großem Gewinn wird ein BigWin Bild eingeblendet;
 
 ## Ausweitung der ReadMe
 Alles Notwendige was zu wissen ist wurde hineingeschrieben. Mit Link zum Creator und seinem Projekt
