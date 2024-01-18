@@ -1,5 +1,7 @@
 # pirate-slotmachine
-This project is
+This project is from a creator, who made his game Open Source.
+
+pirate-slotmachine is about a slotmachine simulator with pirate-style icons.
 
 Link to the Source Code: [SourceCode](https://code.google.com/archive/p/pirate-slot-machine/downloads)
 
